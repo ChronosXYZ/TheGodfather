@@ -1,0 +1,14 @@
+{
+	"user": "ChronosX88",
+	"repo": "TheGodfather",
+	"tag": "0.0.1",
+	"entry": "gf.pwn",
+	"output": "gamemodes\\gf.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	],
+	"local": true,
+	"runtime": {
+		"version": "0.3.7"
+	}
+}
