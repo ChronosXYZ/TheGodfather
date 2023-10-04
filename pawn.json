@@ -10,5 +10,11 @@
 	"local": true,
 	"runtime": {
 		"version": "0.3.7"
-	}
+	},
+	"runtimes": [
+		{
+			"name": "prod",
+			"port": 7777
+		}
+	]
 }
